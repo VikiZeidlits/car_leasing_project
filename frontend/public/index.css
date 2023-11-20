@@ -1,0 +1,86 @@
+.body {
+    /*font-family: Tahoma, Verdana, sans-serif;*/
+    font-family: Source Sans Pro, sans-serif;
+    background-color: #f8f8f8;
+    letter-spacing: 1px;
+
+}
+
+main {
+    border: 1px solid #eee;
+    min-height: 97vh;
+}
+
+.nav-item {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.h2 {
+    color: blue;
+    font-family: Calibri, sans-serif;
+    font-size: 16pt;
+}
+.h5{
+    color: blue;
+}
+.ul{
+    list-style-type: circle;
+}
+
+#footer {
+    max-width: 100%;
+    margin: auto;
+    padding: 10px 0 10px 20px;
+    height: 90px;
+}
+
+footer {
+    background: #0026ff;
+    color: #000000;
+    font-size: 11px;
+}
+
+footer h3 {
+    font: 14px 'Oswald', sans-serif;
+    color: #fff;
+    border-bottom: 1px solid #919191;
+    margin: 0 0 10px 0;
+}
+
+
+footer p {
+    margin: 5px 0;
+}
+
+.w-12rem {
+    width: 12rem;
+}
+.w-10rem {
+    width: 10rem;
+}
+.w-8rem {
+    width: 8rem;
+}
+.w-5rem {
+    width: 5rem;
+}
+.w-3rem {
+    width: 3rem;
+}
+
+.h-2rem{
+    height: 2rem;
+}
+.h-3rem{
+    height: 3rem;
+}
+.h-10rem{
+    height: 10rem;
+}
+.h-200rem{
+    margin-top: 200px;
+}
+.ps-10rem{
+    padding-left: 10rem;
+}
